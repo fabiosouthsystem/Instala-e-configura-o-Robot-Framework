@@ -52,7 +52,8 @@ pip -- version
 
 <br/>
   
-### 02 Instalando o Robot Framework   
+  
+### Instalando o Robot Framework   
   - No prompt de comando (cmd) execute:
       
 pip install -U robotframework
