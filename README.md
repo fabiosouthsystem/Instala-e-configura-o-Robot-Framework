@@ -24,3 +24,6 @@ Para conferir se deu certo, no prompt de comando (cmd) execute:
 
 python --version
 pip -- version
+  
+<div align="center">
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r4.webp">
