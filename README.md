@@ -72,7 +72,7 @@ Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode 
 <br/>
   
 ### **Bibliotecas a serem inclusas no Robot**:
-- Selenium Library [Pré-Requisitos] 
+### ---- Selenium Library [Pré-Requisitos] 
   
 <br/>
 
