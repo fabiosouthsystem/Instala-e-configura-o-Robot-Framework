@@ -29,6 +29,7 @@ pip -- version
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r4.webp">
 
 <ul>
+  <p align="left">
   <li>02 — Instalando o Robot Framework
     
 
@@ -36,4 +37,4 @@ pip -- version
   pip install robotframework
   Para saber se deu tudo certo no prompt de comando (cmd) execute:
   robot --version
-</ul>
+  </ul></p>
