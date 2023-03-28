@@ -22,6 +22,7 @@ O Robot Framework é multi-plataforma, mas nesse tutorial direi o passo-a-passo 
 - Download do chrome driver (https://chromedriver.chromium.org/downloads)
 - Salvar ambos os arquivos executáveis (geckodriver e chrome driver), dentro da pasta scripts onde foi instalado o Python na sua máquina.
 
+<br/>
 
 <ul>
   <li>01 — Instalando o Python e pip [Pré-Requisitos]
