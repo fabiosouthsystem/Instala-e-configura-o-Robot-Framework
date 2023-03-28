@@ -2,7 +2,7 @@ Instalando o Robot Framework (Windows)
 
 <div align="center">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r1.webp">
-
+</p>
 
 O Robot Framework é multi-plataforma, mas nesse tutorial direi o passo-a-passo para instalá-lo no Windows, então bora instalar o Robot Framework??? Irei mostrar o jeito mais tranquilo de fazer, existem outras formas, mas hoje vamos por esta!
 
@@ -27,7 +27,7 @@ pip -- version
   
 <div align="center">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r4.webp">
-___
+
 <ul>
   <li>02 — Instalando o Robot Framework
   - No prompt de comando (cmd) execute e aguarde a instalação:
