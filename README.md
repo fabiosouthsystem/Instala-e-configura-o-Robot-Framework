@@ -19,3 +19,8 @@ Se mesmo após a instalação não configurou as variáveis de ambiente, manualm
 
 <div align="center">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r3.webp">
+  
+Para conferir se deu certo, no prompt de comando (cmd) execute:
+
+python --version
+pip -- version
