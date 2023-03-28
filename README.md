@@ -7,6 +7,22 @@ Robot Framework é uma estrutura de automação de teste de código aberto. Foi 
 
 O Robot Framework é multi-plataforma, mas nesse tutorial direi o passo-a-passo para instalá-lo no Windows, então bora instalar o Robot Framework??? Irei mostrar o jeito mais tranquilo de fazer, existem outras formas, mas hoje vamos por esta!
 
+<br/>
+
+### ---- Pré-Requisitos Robot com Selenium Library ----
+- Sistema Operacional Windows
+- Download da Linguagem Python (https://www.python.org/downloads/)
+- Marcar opção de instalar o PIP durante instalação do Python
+- python --version
+- pip --version
+- Download do Robot Framework via linha de comando no terminal: pip install robotframework
+- robot --version
+- Download do Selenium Library: pip install robotframework-seleniumlibrary
+- Download do Geckodriver: https://github.com/mozilla/geckodriver/releases
+- Download do chrome driver (https://chromedriver.chromium.org/downloads)
+- Salvar ambos os arquivos executáveis (geckodriver e chrome driver), dentro da pasta scripts onde foi instalado o Python na sua máquina.
+
+
 <ul>
   <li>01 — Instalando o Python e pip [Pré-Requisitos]
 Baixe o Python 2.7.x [https://www.python.org/downloads/] OBS.: Podem ocorrer problemas de compatibilidade com o Python 3.0, então recomendam o 2.7 por enquanto.
