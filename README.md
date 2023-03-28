@@ -18,7 +18,7 @@ Instale via executável o Python 2.7. OBS.: Defina a variável de ambiente duran
 Se mesmo após a instalação não configurou as variáveis de ambiente, manualmente edite as variáveis e adicione “C:\Python27\;C:\Python27\Scripts”.
 
 <div align="center">
-<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r3.webp">
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r3.png">
   
 Para conferir se deu certo, no prompt de comando (cmd) execute:
 
