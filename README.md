@@ -68,7 +68,8 @@ robot --version
 
 Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode escolher qual editor usar! eu utilizo por exemplo o Atom!
 
+  
 <br/>
   
-#### **Bibliotecas do Robot**:
+#### **Bibliotecas a serem inclusas no Robot**:
 - Selenium Library  
