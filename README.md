@@ -100,7 +100,6 @@ Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode 
 - Wait Until Page Contains, Wait Until Page Contains Element.
 - Get Value, Get Text, Get Title, Get Cookie.
 - Veja o exemplo de um caso de teste sendo executado com o robot framework e o selenium library no gif abaixo e do report em html gerado.
-  
 <br/>
   
 ### Veja o exemplo de um report de teste executado com o robot framework e o selenium library.
