@@ -27,7 +27,7 @@ pip -- version
   
 <div align="center">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r4.webp">
-
+</div>
 <ul>
   <li>02 — Instalando o Robot Framework
     
