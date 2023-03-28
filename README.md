@@ -75,7 +75,8 @@ Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode 
 ### Selenium Library [Pré-Requisitos] 
   
 <br/>
-
+  
+### BONUS:
 ### Como configurar a abertura e o fechamento de um navegador com o selenium no robot framework: 
 
 <div align="left">
