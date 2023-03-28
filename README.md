@@ -35,3 +35,7 @@ pip -- version
   Para saber se deu tudo certo no prompt de comando (cmd) execute:
   robot --version
 </ul>
+  
+<div align="center">
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r5.webp">
+    
