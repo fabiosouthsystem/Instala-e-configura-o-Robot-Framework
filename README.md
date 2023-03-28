@@ -79,4 +79,4 @@ Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode 
 ### Como configurar a abertura e o fechamento de um navegador com o selenium no robot framework: 
 
 <div align="left">
-<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r9.png">  
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r9.jpg">  
