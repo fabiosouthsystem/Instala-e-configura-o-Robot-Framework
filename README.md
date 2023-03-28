@@ -13,5 +13,5 @@ Instale via executável o Python 2.7. OBS.: Defina a variável de ambiente duran
 </ul>
 
 <div align="center">
-<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r1.webp](https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r2.webp">
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r2.webp">
   
