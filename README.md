@@ -1,7 +1,7 @@
 Instalando o Robot Framework (Windows)
 
 <div align="center">
-<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r1.webp">
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r1.png">
 </p>
 
 O Robot Framework é multi-plataforma, mas nesse tutorial direi o passo-a-passo para instalá-lo no Windows, então bora instalar o Robot Framework??? Irei mostrar o jeito mais tranquilo de fazer, existem outras formas, mas hoje vamos por esta!
@@ -13,7 +13,7 @@ Instale via executável o Python 2.7. OBS.: Defina a variável de ambiente duran
 </ul>
 
 <div align="center">
-<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r2.webp">
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r2.png">
   
 Se mesmo após a instalação não configurou as variáveis de ambiente, manualmente edite as variáveis e adicione “C:\Python27\;C:\Python27\Scripts”.
 
