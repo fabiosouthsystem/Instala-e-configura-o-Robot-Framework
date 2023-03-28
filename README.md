@@ -33,8 +33,11 @@ pip -- version
 <ul>
     <li>02 — Instalando o Robot Framework   
   - No prompt de comando (cmd) execute:
+      
 pip install -U robotframework
+      
   E pronto!! Para saber se deu tudo certo no prompt de comando (cmd) execute:
+
 robot --version
 </ul>
   
