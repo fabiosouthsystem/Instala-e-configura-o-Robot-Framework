@@ -86,4 +86,16 @@ Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode 
 ### Precisamos definir o nossos Setups para abrir e encerrar o navegador.
 
 <div align="left">
-<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r10.jpg">  
+<img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r10.jpg">
+
+<br/>
+
+### Exemplos de keywords utilizando o Selenium Library:
+
+- Select From List By Label, Select Checkbox, Select Radio Button.
+- Input Text, Click Element, Checkbox Should Be Selected, Click Link, Drag and drop.
+- Element Attribute Value Should Be, Element Text Should Be.
+- Page Should Contain Text, Page Should Contain Element.
+- Wait Until Page Contains, Wait Until Page Contains Element.
+- Get Value, Get Text, Get Title, Get Cookie.
+- Veja o exemplo de um caso de teste sendo executado com o robot framework e o selenium library no gif abaixo e do report em html gerado.
