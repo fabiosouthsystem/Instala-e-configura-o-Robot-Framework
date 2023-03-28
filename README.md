@@ -43,4 +43,5 @@ robot --version
   
 <div align="center">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r5.png">
-    
+
+Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode escolher qual editor usar! eu utilizo por exemplo o Atom!
