@@ -4,6 +4,7 @@ Instalando o Robot Framework (Windows)
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r0.png">
 </p>
 Robot Framework é uma estrutura de automação de teste de código aberto. Foi inicialmente desenvolvido pela Nokia Networks, no entanto, agora é mantido pela Robot Framework Foundation.
+
 O Robot Framework é multi-plataforma, mas nesse tutorial direi o passo-a-passo para instalá-lo no Windows, então bora instalar o Robot Framework??? Irei mostrar o jeito mais tranquilo de fazer, existem outras formas, mas hoje vamos por esta!
 
 <ul>
