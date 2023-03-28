@@ -25,7 +25,7 @@ O Robot Framework é multi-plataforma, mas nesse tutorial direi o passo-a-passo 
 <br/>
 
 
-— Instalando o Python e pip [Pré-Requisitos]
+### — Instalando o Python e pip [Pré-Requisitos]
 Baixe o Python 2.7.x [https://www.python.org/downloads/] 
 — OBS.: Podem ocorrer problemas de compatibilidade com o Python 3.0, então recomendam o 2.7 por enquanto.
 — Instale via executável o Python 2.7. 
