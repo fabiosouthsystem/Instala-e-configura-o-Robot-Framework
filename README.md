@@ -29,14 +29,14 @@ Baixe o Python 2.7.x [https://www.python.org/downloads/] OBS.: Podem ocorrer pro
 Instale via executável o Python 2.7. OBS.: Defina a variável de ambiente durante a instalação (recomendado).
 </ul>
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r2.png">
   
 Se mesmo após a instalação não configurou as variáveis de ambiente sozinho, você pode manualmente editar as variáveis e adicioná-las "C:\caminho_do_python_na_sua_maquina\;C:\caminho_do_python_na_sua_maquina\Scripts".
 
 Exemplo: 
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r3.png">
   
 Para conferir se deu certo, no prompt de comando (cmd) execute:
@@ -44,7 +44,7 @@ Para conferir se deu certo, no prompt de comando (cmd) execute:
 python --version
 pip -- version
   
-<div align="center">
+<div align="left">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r4.png">
 
 <ul>
@@ -58,7 +58,7 @@ pip install -U robotframework
 robot --version
 </ul>
   
-<div align="center">
+<div align="left">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r5.png">
 
 Maravilha!! seu Robot Framework está pronto para ser usado!!! Agora você pode escolher qual editor usar! eu utilizo por exemplo o Atom!
