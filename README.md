@@ -50,8 +50,9 @@ pip -- version
 <div align="left">
 <img src="https://github.com/fabiosouthsystem/Instala-o-e-configura-o-Robot-Framework/blob/main/r4.png">
 
-<ul>
-    <li>02 — Instalando o Robot Framework   
+<br/>
+  
+### 02 Instalando o Robot Framework   
   - No prompt de comando (cmd) execute:
       
 pip install -U robotframework
